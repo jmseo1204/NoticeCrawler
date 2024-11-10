@@ -1,0 +1,5 @@
+from .SNU_CSE_NOTICE_crawler import SNU_CSE_NOTICE_crawl
+from .SNU_ECE_CAMPUS_LIFE_crawler import SNU_ECE_CAMPUS_LIFE_crawl
+from .SNU_ECE_JOB_OPENINGS_crawler import SNU_ECE_JOB_OPENINGS_crawl
+from .KAIST_AI_crawler import KAIST_AI_crawl
+from .OIA_crawler import OIA_crawl
