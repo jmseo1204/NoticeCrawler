@@ -5,3 +5,7 @@
 
 - Selenium web crawling   
 - telegram api
+
+
+현재 AWS lambda에서 주기적으로 script 돌릴 방안 찾는 중
+
